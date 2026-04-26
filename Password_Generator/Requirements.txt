@@ -1,0 +1,4 @@
+Need to install in cmd 
+# pip install qrcode[pil]
+in VS code install in terminal 
+# pip install pillow qrcode
